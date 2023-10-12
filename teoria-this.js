@@ -2,6 +2,7 @@
 
 //con 'this' podemos acceder a las keys propias del objeto en el que estemos trabajando.
 //obteniendo valores propios del objeto en donde llamamos a 'this'
+//nota: el .this funciona de manera especial con las funciones fleche () => dentro de los objetos
 
 // =============== [PRACTICA 1] ===============
 let persona = {
